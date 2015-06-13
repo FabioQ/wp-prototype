@@ -19,13 +19,13 @@
 define('DB_NAME', 'hsdbproto');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'hsdbproto');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'U)~S=H%CKFa6');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '23.229.229.73');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
@@ -42,14 +42,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         '734rUHoasTS5NsV z[a{D?f6FQFP{n|;hiKOhTotx=asE1LJEt2oNr0uSn~&4Su&');
-define('SECURE_AUTH_KEY',  'i2&Cq:x==|as$B=d|aD`=p%mcT),UMg~uuQy.}mFuXZK[3Z7h#d+:l 6~r/z+3-/');
-define('LOGGED_IN_KEY',    'HSv*3]ig&VEbOm L7zVtpB8q`ebM^Trvgqc%4w.$vIDr~9Qrg+SWH&Nfrs`5SNQ}');
-define('NONCE_KEY',        'AIhD.[Y#Ii:P(eqc:c+iOPm4zi?Ny!c(+9_M@H6kbttSyd1Cl:I/}SstLR]cH_G)');
-define('AUTH_SALT',        'Gi1wx-RLD! jo$-o3|$=3T+;LKg^^l@b]n[>lZO[RjF8e(6eGw8*6p8qC7X)H`L&');
-define('SECURE_AUTH_SALT', 'AVb4A`Cax:L#3-.W!v-x) B&$%Q+-&UFR-flD)~r|q!D-C]suoq1{P+}Tjv~5>]h');
-define('LOGGED_IN_SALT',   'yeS1+yOEK)mf59teFO+R2?%psVxWf^TpVY:^k`s-aZcOtq<}`23bD#S+<MH7E[k}');
-define('NONCE_SALT',       'kR0Hem,$bSB-d(6IFGa[&^$S?WPID/_R}Rq6y.#Ho11Bt%Af~@)UtI{=` N/F]fW');
+define('AUTH_KEY',         ';@xGIngusnx^[&IR2j  TX+8OoC`G,z$Df(ASb+JzKZfreGOdil_8HAd8N1&dH&{');
+define('SECURE_AUTH_KEY',  'w]f:6^ZC.1a>tm-&*xPyUrg?`b>Fi1K1/t(<`+vm2~W8e0SH|k_r1`7c:kv6xH]y');
+define('LOGGED_IN_KEY',    'Xj_7P~qK#8LaOq)0x-_+67l6P-rl p*y<PI]{pmmMHVfu|}wU,Ciih)f|gbZHAq>');
+define('NONCE_KEY',        '++V:gSktAnQE_kX:K)(=0sJy!O^t(M`/?-ml,6zP:<wH9+}Ug~Y|a>Ji:mZoj{+=');
+define('AUTH_SALT',        'pLJ}<(v+)y.-W0a7`f)OY:z>{SL^yy;NSX8;zR)+_@_;|Q*;ZNeZ89X|+9o9l-;)');
+define('SECURE_AUTH_SALT', 'NU[4UnmWH|Q!4VZ0(zxY(m2ZCTt/@BLE/HR#i][_/:4~]u[h+yKux2b#1MG>t3,>');
+define('LOGGED_IN_SALT',   'Ogz6*&.]^/IGY_w~MQrLD+mZu$^-~S<Rh}G!,XhR;I-&,l8aEXP7>l*iP[vm]E+2');
+define('NONCE_SALT',       'pIbM665:}dNsSqDXV6TVei6+jmM9(HsS_/SgQr+6A,qL@3?:A}.K#V+173ij;X[^');
 
 /**#@-*/
 
