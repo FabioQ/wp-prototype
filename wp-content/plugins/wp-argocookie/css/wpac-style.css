@@ -1,0 +1,82 @@
+
+/* WP ARGO COOKIE PLUGIN CSS - STYLE
+======================================*/
+
+#cookies  {
+	position: fixed;
+	display: none;
+	bottom: 0;
+	background: #F44336;
+	color: #fff;
+	width: 100%;
+	height: auto;
+	min-height: 50px;
+	line-height: 20px;
+	z-index: 9999999;
+}
+
+#cookies p {
+	margin: 10px;
+	font-size: 13px;
+	padding: 0;
+	color: #fff;
+	text-align: justify;
+}
+
+#cookies .cookie-text {
+	width: 75%;
+	padding-left: 5%;
+	float: left;
+	margin: 0;
+	text-align: left;
+}
+
+#cookies .cookie-text a {
+	color: #56D6FC;
+	font-weight: 700;
+}
+
+#cookies .cookie-action {
+	width: 15%;
+	padding-right: 5%;
+	float: right;
+	margin: 0;
+	text-align: center;
+}
+
+#cookies .close-cookie {
+	width: auto;
+	max-width: 100%;
+	margin: 15px auto;
+	padding: 8px 18px;
+	background: #F77066;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	color: #fff;
+	border: 0;
+	font-size: 15px;
+	text-transform: uppercase;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	border-bottom: 0 !important;
+	text-shadow: none;
+	float:left;
+}
+
+#cookies .close-cookie:hover {
+	background: #fff;
+	color: #F44336 !important;
+}
+
+@media only screen and (max-width: 600px){
+	#cookies .cookie-text,
+	#cookies .cookie-action,
+	#cookies .close-cookie {
+		width: 100%;
+		padding: 2%;
+		float:none;
+		display: block;
+	}
+	
+}
